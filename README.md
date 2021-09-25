@@ -25,4 +25,4 @@ LICENSE) untuk lebih detail
 
 ## Unduh paket
 
-[here](https://github.com/ferdyzz4/q2a-bahasa-indonesia/archive/master.zip)
+[Unduh disini](https://github.com/ferdyzz4/q2a-bahasa-indonesia/archive/refs/heads/main.zip)
