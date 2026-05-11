@@ -13,8 +13,9 @@ Question2Answer Bahasa Indonesia +-99% Komplit
 
 ### Pemasangan
 
-1. Unduhh semua file yang ada dalam repositori ini
-2. Salin folder```id-ID``` ke dalam folder ```qa_lang``` 
+1. Unduh semua file yang ada dalam repositori ini
+2. Buat folder```id-ID``` di dalam folder ```qa_lang``` 
+3. Salin semua file kedalam folder ```id-ID```
 
 ## Lisensi
 
