@@ -4,11 +4,11 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-lang/de/qa-lang-main.php
-	Version: 1.8
-	Date: 2019-09-25
-	Description: Language phrases commonly used throughout Q2A in German
-	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
+    File: qa-lang/id-ID/qa-lang-admin.php
+    Version: 1.8x
+    Date: 2026-05-11
+	Description: Language phrases commonly used throughout Q2A in Bahasa Indonesia
+	Translation: ferdyzz4@github
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License

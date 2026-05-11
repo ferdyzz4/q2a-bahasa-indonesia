@@ -6,7 +6,7 @@
     File: qa-lang/id-ID/qa-lang-admin.php
     Version: 1.8x
     Date: 2026-05-11
-    Description: Language phrases for admin center in formal German (Sie)
+    Description: Language phrases for admin center in Bahasa Indonesia
     Translation: ferdyzz4@github
 
 	This program is free software; you can redistribute it and/or
