@@ -3,11 +3,11 @@
     Question2Answer by Gideon Greenspan and contributors
     http://www.question2answer.org/
 
-    File: qa-lang/de/qa-lang-admin.php
-    Version: 1.8
-    Date: 2019-10-23
+    File: qa-lang/id-ID/qa-lang-admin.php
+    Version: 1.8x
+    Date: 2026-05-11
     Description: Language phrases for admin center in formal German (Sie)
-    Translation: Fulgor@github
+    Translation: ferdyzz4@github
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
