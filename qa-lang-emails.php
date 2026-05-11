@@ -3,11 +3,11 @@
 /*	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org
 	
-	File: qa-lang/de/qa-lang-emails.php
-	Version: 1.8
-	Date: 2019-09-19
-	Description: Language phrases for email notifications in German
-	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
+    File: qa-lang/id-ID/qa-lang-emails.php
+    Version: 1.8x
+    Date: 2026-05-11
+	Description: Language phrases for email notifications in Bahasa Indonesia
+	Translation: ferdyzz4@github
 
 
 	This program is free software; you can redistribute it and/or

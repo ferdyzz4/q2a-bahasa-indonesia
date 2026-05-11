@@ -3,12 +3,12 @@
         Question2Answer by Gideon Greenspan and contributors
         http://www.question2answer.org/
 
-        File: qa-lang/de/qa-lang-options.php
-        Version: 1.8
-        Date: 2019-12-26
+		File: qa-lang/id-ID/qa-lang-options.php
+		Version: 1.8x
+		Date: 2026-05-11
         Description: Language phrases for all options, as shown in admin center
-                     in formal German (Sie)
-        Translation: Fulgor@github
+                     in Bahasa Indonesia
+        Translation: ferdyzz4@github
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License

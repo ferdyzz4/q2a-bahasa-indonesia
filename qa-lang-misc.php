@@ -6,11 +6,11 @@
 	http://www.question2answer.org/
 
 
-	File: qa-lang/de-SIE/qa-lang-misc.php
-	Version: 1.4
-	Date: 2011-06-25
-	Description: Miscellaneous language phrases in German
-	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf
+    File: qa-lang/id-ID/qa-lang-misc.php
+    Version: 1.8x
+    Date: 2026-05-11
+	Description: Miscellaneous language phrases in Bahasa Indonesia
+	Translation: ferdyzz4@github
 
 
 	This program is free software; you can redistribute it and/or

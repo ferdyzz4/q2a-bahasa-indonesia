@@ -4,11 +4,11 @@
         Question2Answer by Gideon Greenspan and contributors
         http://www.question2answer.org/
 
-	File: qa-lang/de/qa-lang-profile.php
-	Version: 1.8
-	Date: 2019-09-19
-	Description: Language phrases for user profile page in German
-	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
+    File: qa-lang/id-ID/qa-lang-profile.php
+    Version: 1.8x
+    Date: 2026-05-11
+	Description: Language phrases for user profile page in Bahasa Indonesia
+	Translation: ferdyzz4@github
 
 
 	This program is free software; you can redistribute it and/or
@@ -36,7 +36,7 @@
 'answers' => 'Jawaban:',
 'comments' => 'Komentar:',
 'gave_out' => 'memberi:',
-'my_account_title' => 'Properti akun saya',
+'my_account_title' => 'Akun saya',
 'no_posts_by_x' => 'Tidak ada kiriman dari ^',
 'questions' => 'Pertanyaan:',
 'ranked_x' => '(Peringkat # ^)',
